@@ -201,7 +201,7 @@
         <thead class={"border-b border-solid border-slate-200  "}>
           <tr class="">
             <th />
-            <th class="whitespace-nowrap p-2 px-4">Candidate #1</th>
+            <th class="whitespace-nowrap p-2 px-4">Candidate</th>
             <th class="whitespace-nowrap p-2 px-4">Candidate #2</th>
             <th class="whitespace-nowrap p-2 px-4">Candidate #3</th>
             <th class="bg-violet-700 text-white whitespace-nowrap p-4 px-8"
