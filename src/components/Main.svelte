@@ -192,7 +192,7 @@
       {/each}
     </div>
     <h5 class={" text-2xl sm:text-3xl font-semibold text-center poppins "}>
-      The <span class="text-violet-400">Complete</span> Package
+      The <span class="text-violet-400">Complete</span> Packagee
     </h5>
     <div
       class="flex flex-col overflow-x-scroll gap-10 max-w-[800px] mx-auto w-full"
